@@ -1,3 +1,6 @@
 *.DS_Store
 model/
 Titanic_New_V1_0_null제거기초배포.ipynb
+answer/
+images/
+My_fashion_mnist
