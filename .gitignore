@@ -6,3 +6,5 @@ images/
 My_fashion_mnist/
 dogs-vs-cats/
 cifa_test_img/
+data/
+logs/
