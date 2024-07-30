@@ -8,3 +8,5 @@ dogs-vs-cats/
 cifa_test_img/
 data/
 logs/
+converted_keras/
+check/
