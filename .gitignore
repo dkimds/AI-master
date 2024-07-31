@@ -10,3 +10,5 @@ data/
 logs/
 converted_keras/
 check/
+aclImdb/
+glove.6B/
