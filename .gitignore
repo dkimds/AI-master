@@ -12,3 +12,4 @@ converted_keras/
 check/
 aclImdb/
 glove.6B/
+/project/__pycache__
