@@ -13,3 +13,4 @@ check/
 aclImdb/
 glove.6B/
 /project/__pycache__
+project/api_key.txt
