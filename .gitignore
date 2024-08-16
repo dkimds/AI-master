@@ -16,3 +16,4 @@ glove.6B/
 project/api_key.txt
 project/example_data/temp.pdf
 requirements.txt
+/recommander/__pycache__
